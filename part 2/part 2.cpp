@@ -26,3 +26,5 @@ public:
 
 int main() {
 	bangunDatar pp; // Deklarasi objek pp dari class bangundatar
+	pp.input();
+	pp.display();
